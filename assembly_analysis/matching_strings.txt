@@ -1,0 +1,148 @@
+                    "path": "<Keyboard>/a",
+                    "path": "<Keyboard>/d",
+                    "path": "<Keyboard>/s",
+                    "path": "<Keyboard>/w",
+!RebirthPub|PlatformAchievementKey
+#RebirthPub.PlayScene|RewardGroupKey
+%RebirthPub|PlatformAchievementStatKey
+'\Assets\Scripts\Data\EncryptProvider.cs
+(H+MbQeThWmZq4t7
+*TMPOutlineMaterialManager|MaterialCacheKey
+,RebirthPub.DataRepositoryManager|PlayDataKey
+/RebirthPub.DataRepositoryManager|GalleryDataKey
+1Enwer/Input/_KeyBoard
+2\Assets\Scripts\Platform\PlatformAchievementKey.cs
+2RebirthPub.PlayScene.Event|KeyboardMouseEventInput
+6\Assets\Scripts\Platform\PlatformAchievementStatKey.cs
+6B37F2DC3CBC36CB512AAB959CD9F9E3A5ED19A1282D3D8D0EF02E14C2935C71
+<AddFootStepKey>g__SkeletonEvent|0
+<InputProcess>g__KeyboardMoveProcess|5_1
+<InputProcess>g__KeyboardZoomProcess|5_3
+<Save>g__SaveData|6_0
+<SaveGalleryData>g__SaveData|9_0
+<Update>g__KeyboardSpeedProcess|21_0
+\UnityEngine.UI.Button, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+_addressableKey
+_eventKey
+_InputKeyBoard
+_InputKeyBoard|KeyCodeEvent
+_key
+_keyDatas
+_pictureKeys
+_resultLocalizeKeys
+_soAddressableKey
+_thumbnailKeys
+_titleTextLocalizeKey
+_TMPro.TextMeshProUGUI, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+_whiskey
+A\Assets\Lana Studio\Casual RPG VFX\Demo\Scripts\_InputKeyBoard.cs
+AddFootStepKey
+AddKey
+aSpine.Unity.SkeletonAnimation, spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+aUnityEngine.Camera, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+b\Assets\Scripts\PlayScene\Event\Events\Component\EventInput\Input Logic\KeyboardMouseEventInput.cs
+CheckSpineEventKeyExist
+ContainsKey
+ConvertDictionaryKeyEnumToInt
+ConvertDictionaryKeyIntToEnum
+CreateDecryptor
+CreateEncryptor
+CreateRijndaelManaged
+Decrypt
+DeleteKey
+Encrypt
+EncryptProvider
+ES3LanguageKey
+ES3MosaicKey
+ES3ResolutionKey
+ES3ScreenModeKey
+ES3SoundVolumeKeys
+ES3TextAutoKey
+ES3TextSettingKeys
+EventResultLocalizeKey
+ExploreEventRewardKey
+First columns should be 'Key', 'Type' and 'Desc'
+GalleryDataKey
+get_AddressableKey
+get_alphaKeys
+get_colorKeys
+get_GroupKey
+get_InteractContainerAddressableKey
+get_Key
+get_Keys
+get_LocalizeDataKey
+get_LocalizeKey
+GetKeyDown
+GetKeyFromFullTerm
+GetKeys
+GetKeyUp
+GetNoticeKey
+GetSaveData
+GetSpotObjectSetPointByKeys
+Google_SpreadsheetKey
+Gpm.Common.ThirdParty.MessagePack
+GradientAlphaKey
+GradientColorKey
+gUnityEngine.LineRenderer, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+gUnityEngine.UI.AspectRatioFitter, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+GZipStream
+HasKey
+IGpm.Ui.Tab, gpm_ui, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+IsContainKeyInTree
+IsEventKeyExist
+IsKeyword
+jNavMeshPlus.Extensions.AgentOverride2d, NavMeshPlus, Version=0.0.0.0, Culture=neutral, PublicKeyToken=nullhUnityEngine.AI.NavMeshAgent, UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+jUnityEngine.Collider2D, UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Key {0} already exists in eventActions. Duplicate addition ignored.
+Key[*]Type[*]Desc
+keyBoardGetKey
+KeyBoardIsPressed
+KeyboardMouseEventInput
+KeyboardMoveSpeed
+KeyboardZoomSpeed
+keycode
+keyCode
+KeyCode
+KeyCodeEvent
+KeyCollection
+Keyframe
+keyValuePair
+keyvaluePair
+KeyValuePair`2
+Key{0}Type{0}Desc
+kUnityEngine.Rigidbody2D, UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+LoadSaveData
+m_Key
+MaterialCacheKey
+MessagePackSerializer
+MGpm.Ui.TabPage, gpm_ui, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+OGpm.Ui.TabButton, gpm_ui, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+PaddingMode
+PlatformAchievementKey
+PlatformAchievementStatKey
+PlayDataKey
+PrivateKey
+RebirthPub|EncryptProvider
+result.CheckSpineEventKeyExist(_skeletonAnimation,
+RewardGroupKey
+RuntimeKeyIsValid
+saveData{0:00}.bin
+ScreenLocalizeKey
+ScreenTabLocalizeKey
+set_Key
+SetKeys
+sFebucci.UI.Core.TypewriterCore, Febucci.TextAnimator.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+SGpm.Ui.TabController, gpm_ui, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+SoundLocalizeKey
+SoundTabLocalizeKey
+testTextLocalizeKeys
+TKey
+UtageTabLocalizeKey
+WalkSoundKey
+wUnity.Cinemachine.CinemachinePositionComposer, Unity.Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+XTMPro.TMP_Text, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+xUnity.Cinemachine.CinemachineVirtualCameraBase, Unity.Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+ZUnityEngine.UI.Text, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+{0} doesn't have a event key with name {1}
+{0}?key={1}&action=GetLanguageSource&version={2}
+|_InputKeyBoard

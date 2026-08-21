@@ -106,14 +106,14 @@ def parse_args() -> argparse.Namespace:
         "input",
         nargs="?",
         type=Path,
-        default="saveData04.bin",
+        default="saveData/saveData04.bin",
         help="Input saveDataXX.bin file")
     parser.add_argument(
         # 可选的输出 JSON 路径。
         "-o",
         "--output",
         type=Path,
-        default="saveData04.json",
+        default="saveData/saveData04.json",
         help="Output JSON path (default: input filename with .json)",
     )
     parser.add_argument(

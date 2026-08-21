@@ -158,7 +158,7 @@ def parse_args() -> argparse.Namespace:
         "input",
         nargs="?",
         type=Path,
-        default="saveData04.json",
+        default="saveData/saveData04.json",
         help="Edited JSON file"
     )
     parser.add_argument(
